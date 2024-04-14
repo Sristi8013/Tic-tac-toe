@@ -1,2 +1,3 @@
 # Tic-tac-toe
-Game
+Online Game project by html,css & javascript
+
